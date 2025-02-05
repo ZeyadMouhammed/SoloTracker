@@ -49,5 +49,5 @@ This is the **PHP** backend for the **SoloTracker** app, which provides the nece
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/solo-tracker-backend.git
+   git clone https://github.com/ZeyadMouhammed/SoloTracker
    cd solo-tracker-backend
