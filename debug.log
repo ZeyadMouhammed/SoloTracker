@@ -1,0 +1,95 @@
+Decoded data: Array
+(
+    [username] => zzzz
+    [email] => test9@gmail.com
+)
+Valid data (excluding password): Array
+(
+    [username] => zzzz
+    [email] => test9@gmail.com
+)
+Decoded data: Fallback to $_POST: Valid data (excluding password): Array
+(
+    [username] => 
+    [email] => 
+)
+Missing required fields.Decoded data: Array
+(
+    [username] => azza
+    [email] => test9@gmail.com
+)
+Valid data (excluding password): Array
+(
+    [username] => azza
+    [email] => test9@gmail.com
+)
+Decoded data: Array
+(
+    [username] => dodo
+    [email] => test9@gmail.com
+)
+Valid data (excluding password): Array
+(
+    [username] => dodo
+    [email] => test9@gmail.com
+)
+Decoded data: Array
+(
+    [username] => azza
+    [email] => hsjadjhas@gmail.com
+)
+Valid data (excluding password): Array
+(
+    [username] => azza
+    [email] => hsjadjhas@gmail.com
+)
+Decoded data: Array
+(
+    [username] => azza
+    [email] => asndjkashd@gmail.com
+)
+Valid data (excluding password): Array
+(
+    [username] => azza
+    [email] => asndjkashd@gmail.com
+)
+Decoded data: Array
+(
+    [username] => azza23
+    [email] => azza2@gmail.com
+)
+Valid data (excluding password): Array
+(
+    [username] => azza23
+    [email] => azza2@gmail.com
+)
+Decoded data: Array
+(
+    [username] => azza22
+    [email] => azza2@gmail.com
+)
+Valid data (excluding password): Array
+(
+    [username] => azza22
+    [email] => azza2@gmail.com
+)
+Decoded data: Array
+(
+    [username] => azza22
+    [email] => azza25@gmail.com
+)
+Valid data (excluding password): Array
+(
+    [username] => azza22
+    [email] => azza25@gmail.com
+)
+Decoded data: Array
+(
+    [username] => test11
+    [email] => test11@gmail.com
+)
+Valid data (excluding password): Array
+(
+    [username] => test11
+    [email] => test11@gmail.com
+)

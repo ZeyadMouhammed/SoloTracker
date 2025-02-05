@@ -1,0 +1,7 @@
+{
+    "name": "vendor/solo-tracker",
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "*"
+    }
+}
