@@ -1,5 +1,6 @@
 <?php
 require './connection.php';
+header('Content-Type: application/json');
 session_start();
 
 $username = trim($_POST['username']);
