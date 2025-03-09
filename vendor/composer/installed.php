@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'vendor/solo-tracker',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '624e29d2d7a4c71633b96c670b85129a94b352b9',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -56,9 +56,9 @@
             'dev_requirement' => false,
         ),
         'vendor/solo-tracker' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '624e29d2d7a4c71633b96c670b85129a94b352b9',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

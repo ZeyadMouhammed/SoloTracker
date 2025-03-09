@@ -18,6 +18,7 @@ class ComposerStaticInit01479942679e3a012ed4a9f697d1c889
             'Symfony\\Polyfill\\Php80\\' => 23,
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Polyfill\\Ctype\\' => 23,
+            'SoloTracker\\' => 12,
         ),
         'P' => 
         array (
@@ -45,6 +46,10 @@ class ComposerStaticInit01479942679e3a012ed4a9f697d1c889
         'Symfony\\Polyfill\\Ctype\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
+        ),
+        'SoloTracker\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'PhpOption\\' => 
         array (

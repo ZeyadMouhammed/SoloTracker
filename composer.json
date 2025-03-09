@@ -2,6 +2,11 @@
     "name": "vendor/solo-tracker",
     "minimum-stability": "stable",
     "require": {
-        "vlucas/phpdotenv": "*"
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "SoloTracker\\": "src/"
+        }
     }
 }
